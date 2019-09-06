@@ -191,6 +191,22 @@
             }
         },
         {
+            "Key": "86734d8e-5513-41cf-b974-36d3ab58bbab",
+            "Value": {
+                "id": "78d0df2c-ad47-4f5c-b267-c5f8fc8d5cc2",
+                "resourcePath": "fonts\\fnt_text\\fnt_text.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "8978a4cd-b988-4e9e-9bad-e10eb32b5e05",
+            "Value": {
+                "id": "5497303a-0740-49c9-805b-03ac8b481738",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "92b1a2d8-228b-451c-ba45-349ee56f3480",
             "Value": {
                 "id": "47d1c065-b378-4ddd-b674-1dca8f19a33f",
@@ -212,6 +228,14 @@
                 "id": "311023a3-3d50-49c1-a545-3382391d0fb6",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a23dc62a-08df-4c6d-b2a8-876267f9c697",
+            "Value": {
+                "id": "25038d12-1745-4508-84b8-0043c5bcb7b1",
+                "resourcePath": "objects\\obj_game\\obj_game.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -239,11 +263,35 @@
             }
         },
         {
+            "Key": "b0c79e03-6118-41be-914c-5ca042c990d9",
+            "Value": {
+                "id": "584dd5db-0747-4f62-9d5c-e7d145d93b1a",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b6d48d87-6241-4ad5-9429-a45eae1df405",
+            "Value": {
+                "id": "dc24cd5f-745c-4115-b3e5-bf606d46156e",
+                "resourcePath": "rooms\\rm_win\\rm_win.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c46d62ad-dfd3-45f0-9965-f4df72932d68",
             "Value": {
                 "id": "0d44432d-e982-4422-a807-0b5ce135e525",
                 "resourcePath": "sprites\\spr_sml_asteroid\\spr_sml_asteroid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c5e99b23-251a-4753-8960-d34ab79abe58",
+            "Value": {
+                "id": "a0585587-de2f-4989-9a7c-62e33c7b02cd",
+                "resourcePath": "views\\08e9bfa1-ee49-4b27-90c1-168d906a23fd-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
